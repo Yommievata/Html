@@ -15,7 +15,7 @@
 .header{
     display: flex;
     justify-content: space-between;
-    background-color: rgb(180, 214, 189);
+    background-color: rgb(170, 219, 183);
 }
 
 .sub-header{
